@@ -8,4 +8,4 @@ O processo de copiar o repositório remoto para um computador, a fim de realizar
  Ao final das alterações, ele realizará o envio dos commits para o repositório remoto através da execução do comando git push origin master.
 
  Sincronização com as novas alterações do repositório
- 	Para que a sincronização seja realizada e o desenvolvedor tenha em seu computador as novas versões dos arquivos, basta que ele execute o comando git pull origin master.
+ 	Para que a sincronização seja realizada e o desenvolvedor tenha em seu computador as novas versões dos arquivos, basta que ele execute o comando git pull origin master
