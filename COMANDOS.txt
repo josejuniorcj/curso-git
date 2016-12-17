@@ -1,0 +1,4 @@
+
+git whatchanged    - mostrar os arquivo alterados
+git whatchanged -p - mostrar o que foi alterado nesses arquivos nos commits
+ 
