@@ -1,4 +1,11 @@
 
 git whatchanged    - mostrar os arquivo alterados
 git whatchanged -p - mostrar o que foi alterado nesses arquivos nos commits
+
+O processo de copiar o repositório remoto para um computador, a fim de realizar alterações nos arquivos ou até mesmo para ter os arquivos no computador, é chamado de "clone" e pode ser realizado através do comando git clone [uri_do_repositorio].
+	É importante ter em mente que o processo de clonagem de um projeto pode demorar. O tempo pode variar de acordo com o tamanho do projeto que está sendo clonado e também com a velocidade de conexão
  
+ Ao final das alterações, ele realizará o envio dos commits para o repositório remoto através da execução do comando git push origin master.
+
+ Sincronização com as novas alterações do repositório
+ 	Para que a sincronização seja realizada e o desenvolvedor tenha em seu computador as novas versões dos arquivos, basta que ele execute o comando git pull origin master
